@@ -1,3 +1,35 @@
 <resources>
-    <string name="app_name">BottomAppBar</string>
+    <string name="text_app_name">BottomAppBar</string>
+
+    <string name="text_author">Wot.Yang</string>
+    <string name="text_author_github">https://github.com/yangsanning</string>
+
+    <string name="text_mail">邮箱</string>
+    <string name="text_delete">删除</string>
+    <string name="text_archive">档案</string>
+    <string name="text_search">搜索</string>
+    <string name="text_settings">设置</string>
+    <string name="text_favorite">收藏</string>
+    <string name="text_next_page">下一页</string>
+
+    <string name="text_toggle_page">切换页面</string>
+    <string name="text_first_page">第一页</string>
+    <string name="text_second_page">第二页</string>
+
+    <string name="text_nav_item1">Navigation Item 1</string>
+    <string name="text_nav_item2">Navigation Item 2</string>
+    <string name="text_nav_item3">Navigation Item 3</string>
+    <string name="text_nav_item4">Navigation Item 4</string>
+    <string name="text_nav_item5">Navigation Item 5</string>
+    <string name="text_nav_item6">Navigation Item 6</string>
+    <string name="text_nav_item7">Navigation Item 7</string>
+    <string name="text_nav_item8">Navigation Item 8</string>
+    <string name="text_nav_item9">Navigation Item 9</string>
+    <string name="text_nav_item10">Navigation Item 10</string>
+    <string name="text_nav_item11">Navigation Item 11</string>
+    <string name="text_nav_item12">Navigation Item 12</string>
+    <string name="text_nav_item13">Navigation Item 13</string>
+
+    <string name="format_text_click">点击[%s]</string>
+    <string name="format_text_click_count">点击次数: %s</string>
 </resources>
